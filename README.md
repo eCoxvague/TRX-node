@@ -1,12 +1,12 @@
 # TRX-node
 
-Mint TRXI with `nodejs`
-Install `Node.js`
-Create a directory,such as `TRC20Mint`
-Open TRC20Mint, execute command:`npm init`
-Execute command:`npm install tronweb`
-Create an `index.js` file,copy the code below
-Run index.js:`node index.js`
+- Mint TRXI with `nodejs`
+- Install `Node.js`
+- Create a directory,such as `TRC20Mint`
+- Open TRC20Mint, execute command:`npm init`
+- Execute command:`npm install tronweb`
+- Create an `index.js` file,copy the code below
+- Run index.js:`node index.js`
 
 
 ```
