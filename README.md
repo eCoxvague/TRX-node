@@ -41,4 +41,4 @@ main().then(() => {
     
     // Her 4000 milisaniyede (4 saniye) bir main fonksiyonunu çalıştır
 setInterval(main, 3000);
-    ```
+```
